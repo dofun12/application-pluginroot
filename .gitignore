@@ -1,0 +1,5 @@
+# Project exclude paths
+/application-master/target/
+/plugin-anotherfeature/target/
+/plugin-implementation/target/
+/plugin-interface/target/
